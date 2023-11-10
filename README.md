@@ -2,7 +2,7 @@
 
 <!--
 **Dudabauer/Dudabauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Estou estudando na[Alura](http://www.alura.com.br)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://media.tenor.com/7t63GFnoIPUAAAAd/huh-cat-huh-m4rtin.gif
